@@ -1,0 +1,16 @@
+{
+  "name": "q8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "script1": "node script1.js",
+    "script2": "node script2.js",
+    "script3": "node script3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
